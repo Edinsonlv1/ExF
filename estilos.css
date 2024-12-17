@@ -1,0 +1,11 @@
+.carousel-inner img {
+    max-height: 400px; 
+    object-fit: contain; /* Mantiene la proporción de la imagen sin distorsionarla */
+  }
+  #letras{
+    color: black
+  }
+#cabecera{
+    display: flex;
+    justify-content: space-between;
+}
